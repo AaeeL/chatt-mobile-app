@@ -1,0 +1,1 @@
+# This will be a simple mobile app for the chat application 
